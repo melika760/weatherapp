@@ -1,0 +1,40 @@
+.card {
+    margin-top: 100px;
+  }
+  .start {
+    text-align: center;
+    margin-top: 20px;
+  }
+  ul li {
+    display: inline-block;
+    padding: 5px;
+  }
+  .forecast {
+    margin: 30px auto;
+  }
+  .city {
+    margin-left: 10px;
+  }
+  .temp {
+    margin-left: 40px;
+  }
+  .units {
+    position: relative;
+    top: -20px;
+    font-size: 15px;
+  }
+  img {
+    height: 90px;
+    width: 70px;
+    margin-left: 23px;
+  }
+  .week {
+    margin-left: 35px;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: "Patrick Hand", cursive;
+  }
+  
